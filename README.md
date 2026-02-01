@@ -1,6 +1,6 @@
 # 💰 Dhan-Rakshak Web App
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Vue](https://img.shields.io/badge/Vue.js-3.x-green.svg) ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue.svg) ![Firebase](https://img.shields.io/badge/Firebase-Auth%20%7C%20Firestore-orange.svg) ![Visitors](https://komarev.com/ghpvc/?username=Samarpitgupta&repo=dhan-rakshak-web&label=Visitors&color=0e75b6&style=flat)
+![Vue](https://img.shields.io/badge/Vue.js-3.x-green.svg) ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue.svg) ![Firebase](https://img.shields.io/badge/Firebase-Auth%20%7C%20Firestore-orange.svg) ![Visitors](https://komarev.com/ghpvc/?username=Samarpitgupta&repo=dhan-rakshak-web&label=Visitors&color=0e75b6&style=flat)
 
 **Dhan-Rakshak** (Wealth Protector) is a comprehensive, privacy-first personal finance management application tailored for the Indian market. It leverages the power of the **India Stack** (Digital Infrastructure) to provide seamless tracking of stocks, mutual funds, expenses, and financial goals.
 
@@ -175,7 +175,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 5.  Open a Pull Request
 
 ---
-
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
